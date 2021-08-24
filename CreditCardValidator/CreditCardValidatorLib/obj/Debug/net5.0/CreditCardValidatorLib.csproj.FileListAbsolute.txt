@@ -1,0 +1,12 @@
+C:\Users\DHIRAJ rana\source\repos\CreditCardValidatorLib\CreditCardValidatorLib\bin\Debug\net5.0\CreditCardValidatorLib.deps.json
+C:\Users\DHIRAJ rana\source\repos\CreditCardValidatorLib\CreditCardValidatorLib\bin\Debug\net5.0\CreditCardValidatorLib.dll
+C:\Users\DHIRAJ rana\source\repos\CreditCardValidatorLib\CreditCardValidatorLib\bin\Debug\net5.0\ref\CreditCardValidatorLib.dll
+C:\Users\DHIRAJ rana\source\repos\CreditCardValidatorLib\CreditCardValidatorLib\bin\Debug\net5.0\CreditCardValidatorLib.pdb
+C:\Users\DHIRAJ rana\source\repos\CreditCardValidatorLib\CreditCardValidatorLib\obj\Debug\net5.0\CreditCardValidatorLib.csproj.AssemblyReference.cache
+C:\Users\DHIRAJ rana\source\repos\CreditCardValidatorLib\CreditCardValidatorLib\obj\Debug\net5.0\CreditCardValidatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DHIRAJ rana\source\repos\CreditCardValidatorLib\CreditCardValidatorLib\obj\Debug\net5.0\CreditCardValidatorLib.AssemblyInfoInputs.cache
+C:\Users\DHIRAJ rana\source\repos\CreditCardValidatorLib\CreditCardValidatorLib\obj\Debug\net5.0\CreditCardValidatorLib.AssemblyInfo.cs
+C:\Users\DHIRAJ rana\source\repos\CreditCardValidatorLib\CreditCardValidatorLib\obj\Debug\net5.0\CreditCardValidatorLib.csproj.CoreCompileInputs.cache
+C:\Users\DHIRAJ rana\source\repos\CreditCardValidatorLib\CreditCardValidatorLib\obj\Debug\net5.0\CreditCardValidatorLib.dll
+C:\Users\DHIRAJ rana\source\repos\CreditCardValidatorLib\CreditCardValidatorLib\obj\Debug\net5.0\ref\CreditCardValidatorLib.dll
+C:\Users\DHIRAJ rana\source\repos\CreditCardValidatorLib\CreditCardValidatorLib\obj\Debug\net5.0\CreditCardValidatorLib.pdb

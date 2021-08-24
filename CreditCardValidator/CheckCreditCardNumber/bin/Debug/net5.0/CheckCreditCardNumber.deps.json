@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CheckCreditCardNumber/1.0.0": {
+        "dependencies": {
+          "CreditCardValidatorLib": "1.0.0"
+        },
+        "runtime": {
+          "CheckCreditCardNumber.dll": {}
+        }
+      },
+      "CreditCardValidatorLib/1.0.0": {
+        "runtime": {
+          "CreditCardValidatorLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckCreditCardNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreditCardValidatorLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
