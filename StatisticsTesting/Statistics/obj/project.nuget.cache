@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IJdkMF2SW3pavAhugkqqX5uqiS12C9MPytvncFoU72m+KSgzgFMkIVQxWQ4muy0cJtUdk1dJmbk+Svg9IcwFSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaumella\\My Stuff\\stats-unit-kaushikmelch\\Statistics\\Statistics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaumella\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kaumella\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
