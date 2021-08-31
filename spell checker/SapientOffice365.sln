@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellCheckerLib", "SpellCheckerLib\SpellCheckerLib.csproj", "{8305F035-AEA3-44F1-9379-A5CEB95F8CEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordProcessor", "WordProcessor\WordProcessor.csproj", "{C7687C3A-019E-464C-9B07-A5CBCA5C32B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellCheckerLib.Test", "SpellCheckerLib.Test\SpellCheckerLib.Test.csproj", "{93EA7290-8332-46D5-B604-F53349855453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8305F035-AEA3-44F1-9379-A5CEB95F8CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8305F035-AEA3-44F1-9379-A5CEB95F8CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8305F035-AEA3-44F1-9379-A5CEB95F8CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8305F035-AEA3-44F1-9379-A5CEB95F8CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7687C3A-019E-464C-9B07-A5CBCA5C32B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7687C3A-019E-464C-9B07-A5CBCA5C32B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7687C3A-019E-464C-9B07-A5CBCA5C32B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7687C3A-019E-464C-9B07-A5CBCA5C32B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93EA7290-8332-46D5-B604-F53349855453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EA7290-8332-46D5-B604-F53349855453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EA7290-8332-46D5-B604-F53349855453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EA7290-8332-46D5-B604-F53349855453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DE9D4D0-397A-423E-B8CD-F3660A4E9A53}
+	EndGlobalSection
+EndGlobal
