@@ -1,0 +1,57 @@
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\bin\Debug\net5.0\WordProcessor.exe
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\bin\Debug\net5.0\WordProcessor.deps.json
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\bin\Debug\net5.0\WordProcessor.runtimeconfig.json
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\bin\Debug\net5.0\WordProcessor.runtimeconfig.dev.json
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\bin\Debug\net5.0\WordProcessor.dll
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\bin\Debug\net5.0\ref\WordProcessor.dll
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\bin\Debug\net5.0\WordProcessor.pdb
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\obj\Debug\net5.0\WordProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\obj\Debug\net5.0\WordProcessor.AssemblyInfoInputs.cache
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\obj\Debug\net5.0\WordProcessor.AssemblyInfo.cs
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\obj\Debug\net5.0\WordProcessor.csproj.CoreCompileInputs.cache
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\obj\Debug\net5.0\WordProcessor.dll
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\obj\Debug\net5.0\ref\WordProcessor.dll
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\obj\Debug\net5.0\WordProcessor.pdb
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\obj\Debug\net5.0\WordProcessor.genruntimeconfig.cache
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\bin\Debug\net5.0\SpellCheckerLib.dll
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\bin\Debug\net5.0\SpellCheckerLib.pdb
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\obj\Debug\net5.0\WordProcessor.csproj.AssemblyReference.cache
+C:\Users\DHIRAJ rana\source\repos\SapientOffice365\WordProcessor\obj\Debug\net5.0\WordProcessor.csproj.CopyComplete
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\bin\Debug\net5.0\WordProcessor.exe
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\bin\Debug\net5.0\WordProcessor.deps.json
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\bin\Debug\net5.0\WordProcessor.runtimeconfig.json
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\bin\Debug\net5.0\WordProcessor.runtimeconfig.dev.json
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\bin\Debug\net5.0\WordProcessor.dll
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\bin\Debug\net5.0\ref\WordProcessor.dll
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\bin\Debug\net5.0\WordProcessor.pdb
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\bin\Debug\net5.0\SpellCheckerLib.dll
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\bin\Debug\net5.0\SpellCheckerLib.pdb
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\obj\Debug\net5.0\WordProcessor.csproj.AssemblyReference.cache
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\obj\Debug\net5.0\WordProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\obj\Debug\net5.0\WordProcessor.AssemblyInfoInputs.cache
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\obj\Debug\net5.0\WordProcessor.AssemblyInfo.cs
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\obj\Debug\net5.0\WordProcessor.csproj.CoreCompileInputs.cache
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\obj\Debug\net5.0\WordProcessor.csproj.CopyComplete
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\obj\Debug\net5.0\WordProcessor.dll
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\obj\Debug\net5.0\ref\WordProcessor.dll
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\obj\Debug\net5.0\WordProcessor.pdb
+D:\Sapient\Projects\Daily Hands on\SapientOffice365\WordProcessor\obj\Debug\net5.0\WordProcessor.genruntimeconfig.cache
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\bin\Debug\net5.0\WordProcessor.exe
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\bin\Debug\net5.0\WordProcessor.deps.json
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\bin\Debug\net5.0\WordProcessor.runtimeconfig.json
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\bin\Debug\net5.0\WordProcessor.runtimeconfig.dev.json
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\bin\Debug\net5.0\WordProcessor.dll
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\bin\Debug\net5.0\ref\WordProcessor.dll
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\bin\Debug\net5.0\WordProcessor.pdb
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\bin\Debug\net5.0\SpellCheckerLib.dll
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\bin\Debug\net5.0\SpellCheckerLib.pdb
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\obj\Debug\net5.0\WordProcessor.csproj.AssemblyReference.cache
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\obj\Debug\net5.0\WordProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\obj\Debug\net5.0\WordProcessor.AssemblyInfoInputs.cache
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\obj\Debug\net5.0\WordProcessor.AssemblyInfo.cs
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\obj\Debug\net5.0\WordProcessor.csproj.CoreCompileInputs.cache
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\obj\Debug\net5.0\WordProcessor.csproj.CopyComplete
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\obj\Debug\net5.0\WordProcessor.dll
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\obj\Debug\net5.0\ref\WordProcessor.dll
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\obj\Debug\net5.0\WordProcessor.pdb
+D:\Sapient\Projects\CreditCardValidator\spell checker\WordProcessor\obj\Debug\net5.0\WordProcessor.genruntimeconfig.cache
