@@ -1,0 +1,9 @@
+D:\Sapient\Projects\CreditCardValidator\StatisticsTesting\Statistics\bin\Debug\netstandard2.0\Statistics.deps.json
+D:\Sapient\Projects\CreditCardValidator\StatisticsTesting\Statistics\bin\Debug\netstandard2.0\Statistics.dll
+D:\Sapient\Projects\CreditCardValidator\StatisticsTesting\Statistics\bin\Debug\netstandard2.0\Statistics.pdb
+D:\Sapient\Projects\CreditCardValidator\StatisticsTesting\Statistics\obj\Debug\netstandard2.0\Statistics.csproj.AssemblyReference.cache
+D:\Sapient\Projects\CreditCardValidator\StatisticsTesting\Statistics\obj\Debug\netstandard2.0\Statistics.AssemblyInfoInputs.cache
+D:\Sapient\Projects\CreditCardValidator\StatisticsTesting\Statistics\obj\Debug\netstandard2.0\Statistics.AssemblyInfo.cs
+D:\Sapient\Projects\CreditCardValidator\StatisticsTesting\Statistics\obj\Debug\netstandard2.0\Statistics.csproj.CoreCompileInputs.cache
+D:\Sapient\Projects\CreditCardValidator\StatisticsTesting\Statistics\obj\Debug\netstandard2.0\Statistics.dll
+D:\Sapient\Projects\CreditCardValidator\StatisticsTesting\Statistics\obj\Debug\netstandard2.0\Statistics.pdb
