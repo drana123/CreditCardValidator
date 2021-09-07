@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5WqTUMoWDYvKr9gZe46RXkt00ylaem28gESor041sYLcHgS7vB5+jdzb6M2jAg5++VbwZDa0PlTq5Fgvi0B0iQ==",
+  "dgSpecHash": "baJoPEG6HENEff/86wrlOCZh3WQ2uJhxlrt+NAhDCVrUGIDU6+fP7hPKwjd0Yy/PBzNDhpfGcuhL3XX3mgi7oA==",
   "success": true,
   "projectFilePath": "D:\\Sapient\\Projects\\CreditCardValidator\\StatisticsTesting\\StatisticsNew.Tests\\StatisticsNew.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DHIRAJ rana\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\DHIRAJ rana\\.nuget\\packages\\coverlet.msbuild\\3.1.0\\coverlet.msbuild.3.1.0.nupkg.sha512",
     "C:\\Users\\DHIRAJ rana\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\DHIRAJ rana\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\DHIRAJ rana\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",
