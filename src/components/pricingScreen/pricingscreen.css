@@ -1,0 +1,23 @@
+.pricingscreen {
+    text-align: center;
+  }
+  
+  .flex-container {
+    display: flex;
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    margin-top: 10%;
+  }
+  
+  .left {
+    width : 28%;
+  }
+  
+  .right{
+    width: 80%;
+  }

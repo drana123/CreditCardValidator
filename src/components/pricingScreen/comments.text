@@ -1,0 +1,37 @@
+  // url: 'https://func-price-frontapi-devl-01.azurewebsites.net/api/GetPricingData?code=7a/wg04t3eReDx1oSIut9eT2BWbLMsiUVmL2OtgYmwAhEoYTnLPjkQ==&clientId=apim-apim-price-frontapi-thirdapi-devl-01', // Mocked Backend Data.
+    //  url: 'https://apim-price-intg-01.azure-api.net/api/pricingdata-get',
+
+    
+    // url: "https://func-price-frontapi-devl-01.azurewebsites.net/api/getPref?code=7a/wg04t3eReDx1oSIut9eT2BWbLMsiUVmL2OtgYmwAhEoYTnLPjkQ==&clientId=apim-apim-price-frontapi-thirdapi-devl-01"+query, // Mocked Backend Data.
+    // url : "https://apim-price-intg-01.azure-api.net/api/preference-get"+query, 
+
+      //  let id= preference.id; 
+        //url: 'https://func-price-frontapi-intg-01.azurewebsites.net/api/preference-save?code=wNq9pj4yR8VI2nS6phAQSQKyWOHioaNpfW2HzIuztExqyjBkVXGVgA==&clientId=apim-apim-price-intg-01', // Mocked Backend Data.
+    // url : "https://apim-price-intg-01.azure-api.net/api/preference-save", 
+
+        //url: 'https://func-price-frontapi-intg-01.azurewebsites.net/api/preference-save?code=wNq9pj4yR8VI2nS6phAQSQKyWOHioaNpfW2HzIuztExqyjBkVXGVgA==&clientId=apim-apim-price-intg-01', // Mocked Backend Data.
+    // url : "https://apim-price-intg-01.azure-api.net/api/preference-save", 
+
+      // it('sets default pref states', () => {
+    //     const newState = pricingAppReducer(InitialState, {type: FETCH_PREF, payload: {preference: {}}});
+    //     expect(newState.fetchApi.preference).toEqual(setDefaultpreferences());
+    // });
+
+    // add
+// Email userperf
+
+// update
+// Email userpref userId
+// for new User
+// import InitialState from './InitialState';
+ // expect(mockReset.mock.calls.length).toEqual(1);
+        // expect(mockClick.mock.calls.length).toEqual(1);
+        // expect(mockReset.mock.calls.length).toEqual(1);
+        // expect(mockClick.mock.calls.length).toEqual(1);
+         // expect(mockReset.mock.calls.length).toEqual(1);
+        // expect(mockClick.mock.calls.length).toEqual(1);
+         // expect(mockReset.mock.calls.length).toEqual(1);
+        // expect(mockClick.mock.calls.length).toEqual(1);
+         // if(email == null){
+
+    // }

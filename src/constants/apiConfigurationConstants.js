@@ -1,0 +1,7 @@
+export const GET_URL = "https://apim-price-intg-01.azure-api.net/api/configuration/config-get"
+// export const GET_URL = "https://func-price-frontapi-intg-01.azurewebsites.net/api/config-get?code=wNq9pj4yR8VI2nS6phAQSQKyWOHioaNpfW2HzIuztExqyjBkVXGVgA==&clientId=apim-apim-price-intg-01"
+export const PUT_URL = "https://apim-price-intg-01.azure-api.net/api/configuration/config-update"
+// export const PUT_URL = "https://func-price-frontapi-intg-01.azurewebsites.net/api/config-update?code=wNq9pj4yR8VI2nS6phAQSQKyWOHioaNpfW2HzIuztExqyjBkVXGVgA==&clientId=apim-apim-price-intg-01"
+export const POST_URL = "https://apim-price-intg-01.azure-api.net/api/configuration/config-save"
+// export const POST_URL = "https://func-price-frontapi-intg-01.azurewebsites.net/api/config-save?code=wNq9pj4yR8VI2nS6phAQSQKyWOHioaNpfW2HzIuztExqyjBkVXGVgA==&clientId=apim-apim-price-intg-01"
+export const FEATURE_URL = "https://func-price-wrapperoverappconfig-test-02.azurewebsites.net/api/features-get?"
