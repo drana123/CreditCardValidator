@@ -1,0 +1,2 @@
+export const mockLoginApiEndPoint = `https://func-price-frontapi-intg-01.azurewebsites.net/api/user-get?code=wNq9pj4yR8VI2nS6phAQSQKyWOHioaNpfW2HzIuztExqyjBkVXGVgA==&clientId=apim-apim-price-intg-01==&email=`;
+export const loginApiEndPoint = `/api/userManagement/user-get?email=`
