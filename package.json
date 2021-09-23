@@ -97,5 +97,5 @@
     "suiteNameTemplate": "{filepath}",
     "outputDirectory": ".",
     "outputName": "junit.xml"
-  },
+  }
 }
