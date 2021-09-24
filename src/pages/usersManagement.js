@@ -18,7 +18,7 @@ function UsersManagement() {
   }
 
 
-  if (Email !== null && UserRole !== "admin") {
+  if (Email != null && UserRole != "admin") {
 
     history.push("/pricingView");
     return (<>
